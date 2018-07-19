@@ -54,7 +54,7 @@ Before you can make use of the template you need to move the LaTeX template file
 into Pandocs template directory:
 
 ```
-mkdir ~/.pandoc
+mkdir -p ~/.pandoc/templates
 mv your-repo-path/letter.latex ~/.pandoc/templates
 ```
 
